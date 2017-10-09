@@ -3,7 +3,7 @@ from itertools import cycle
 import numpy as np
 import pandas as pd
 from functools import partial
-from multiprocess import Pool
+from multiprocessing import Pool
 
 from ...data import DataManager
 from .base import BaseGlobalInterpretation

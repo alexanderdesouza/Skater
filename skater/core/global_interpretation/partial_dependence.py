@@ -3,7 +3,7 @@
 from itertools import product, cycle
 import numpy as np
 import pandas as pd
-from multiprocess import Pool
+from multiprocessing import Pool
 import functools
 import sys
 
